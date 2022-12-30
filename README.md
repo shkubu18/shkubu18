@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Davit Shkubuliani.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning React and PHP technologies.
+- 📫 You can contact me on my linkedin profile: https://www.linkedin.com/in/data-shkubuliani/
