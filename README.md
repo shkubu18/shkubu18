@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Davit Shkubuliani.
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning React and PHP technologies.
+- 🌱 I’m currently learning React technologie.
 - 📫 You can contact me on my linkedin profile: https://www.linkedin.com/in/data-shkubuliani/
