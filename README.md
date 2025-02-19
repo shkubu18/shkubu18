@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=86efac&width=435&lines=Welcome,+I'm+Davit👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&width=435&lines=Welcome,+I'm+Davit👋" alt="Typing SVG" />
 
 I'm a passionate developer who loves working with Laravel, PHP, and modern web technologies. I enjoy building scalable applications, solving complex problems, and optimizing performance.
 
