@@ -9,9 +9,9 @@ I'm a passionate developer who loves working with Laravel, PHP, and modern web t
 - 🌱 I’m currently working in [Redberry • რედბერი](https://www.linkedin.com/company/redberry-%E2%80%A2-%E1%83%A0%E1%83%94%E1%83%93%E1%83%91%E1%83%94%E1%83%A0%E1%83%98/mycompany/) as full-stack developer.
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-phi-dusky-89.vercel.app/api?username=shkubu18&show_icons=true&theme=github_dark&show=reviews,prs_merged,contribs&hide=issues,stars,contribs&rank_icon=github&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats-two-dun.vercel.app?user=shkubu18&theme=github_dark_blue&mode=weekly&card_height=170&hide_border=true)<br/>
-![Github Top Langs](https://github-readme-stats-phi-dusky-89.vercel.app/api/top-langs/?username=shkubu18&theme=github_dark&card_width=450&layout=compact&include_all_commits=true&card_height=170&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-two-dun.vercel.app?user=shkubu18&theme=radical&mode=weekly&hide_border=true&card_width=600)<br/>
+![GitHub Stats](https://github-readme-stats-phi-dusky-89.vercel.app/api?username=shkubu18&show_icons=true&theme=radical&show=reviews,prs_merged,contribs&hide=issues,stars,contribs&rank_icon=github&hide_border=true&card_width=600)<br/>
+![Github Top Langs](https://github-readme-stats-phi-dusky-89.vercel.app/api/top-langs/?username=shkubu18&theme=radical&card_width=600&layout=compact&include_all_commits=true&hide_border=true)
 
 ### 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
