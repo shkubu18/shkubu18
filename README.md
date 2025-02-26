@@ -3,10 +3,10 @@
 I'm a passionate developer who loves working with Laravel, PHP, and modern web technologies. I enjoy building scalable applications, solving complex problems, and optimizing performance.
 
 ### 🚀 About Me
-- 💻 I'm a highly motivated full-stack developer with a passion for creating robust and user-friendly web applications.
+- 💻 Highly motivated full-stack developer with a passion for creating robust and user-friendly web applications.
 - 🛠️ Proficient in front-end and back-end technologies, adept at problem-solving, and delivering efficient solutions.
 - 📚 Committed to continuous learning and staying up-to-date with the latest industry trends.
-- 🌱 I’m currently working in [Redberry • რედბერი](https://www.linkedin.com/company/redberry-%E2%80%A2-%E1%83%A0%E1%83%94%E1%83%93%E1%83%91%E1%83%94%E1%83%A0%E1%83%98/mycompany/) as full-stack developer.
+- 🌱 Currently working in [Redberry • რედბერი](https://www.linkedin.com/company/redberry-%E2%80%A2-%E1%83%A0%E1%83%94%E1%83%93%E1%83%91%E1%83%94%E1%83%A0%E1%83%98/mycompany/) as full-stack developer.
 
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats-two-dun.vercel.app?user=shkubu18&theme=aura_dark&mode=weekly&hide_border=true&card_width=610)<br/>
